@@ -6,7 +6,7 @@ import {
 
 import { db } from "./firebase";
 
-import LeadRecovery from "./leadRecovery.jsx";
+import LeadRecovery from "./leadrecovery.jsx";
 import InvoiceCollection from "./InvoiceCollection";
 import Customers from "./Customers";
 import FollowUps from "./FollowUps";
